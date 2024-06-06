@@ -1,0 +1,27 @@
+p {
+	font-family: Georgia, serif;
+	font-size: 18px;
+	background-color: lightcyan;
+	width: 900px;
+	padding: 10px;
+}
+h1 {
+	font-family: Garamond;
+	color: purple;
+}
+body {
+	background image: url("multimedij/mojaslika.jpeg")
+}
+a:link{
+	color: black;
+	background-color: MistyRose;
+	padding: 5px;
+	line-height: 40px
+}
+a:hover{
+	background-color: lightcyan;
+}
+li {
+	font-size: 18px;
+	background-color: MistyRose;
+}
